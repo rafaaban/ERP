@@ -48,7 +48,7 @@
   $('#div-btn2').click(function(){
       $.ajax({
       type: "POST",
-      url: "//localhost/ERP/pages/examples/rhAlta.php",
+      url: "//localhost:8080/ERP/pages/examples/rhAlta.php",
       success: function(a) {
               $('#paginas').html(a);
 
@@ -59,7 +59,7 @@
    $('#div-btn3').click(function(){
       $.ajax({
       type: "POST",
-      url: "//localhost/ERP/pages/examples/rhBaja.php",
+      url: "//localhost:8080/ERP/pages/examples/rhBaja.php",
       success: function(a) {
               $('#paginas').html(a);
 
@@ -71,7 +71,7 @@
  $('#div-btn4').click(function(){
       $.ajax({
       type: "POST",
-      url: "//localhost/ERP/pages/examples/rhCambio.php",
+      url: "//localhost:8080/ERP/pages/examples/rhCambio.php",
       success: function(a) {
               $('#paginas').html(a);
 
@@ -83,7 +83,7 @@
  $('#div-btn5').click(function(){
       $.ajax({
       type: "POST",
-      url: "//localhost/ERP/pages/examples/rhConsulta.php",
+      url: "//localhost:8080/ERP/pages/examples/rhConsulta.php",
       success: function(a) {
               $('#paginas').html(a);
 
