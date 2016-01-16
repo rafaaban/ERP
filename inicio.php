@@ -457,7 +457,7 @@ if ($band ==0)
               </a>
               <ul class="treeview-menu">
                 <li> <a href="#" id="div-btn1" ><i class="fa fa-circle-o"></i>Incio</a></li>
-                <li class="active"><a href="#"id="div-btn2"><i class="fa fa-circle-o"></i> Alta</a></li>
+                <li class="active"><a href="#"id="div-btn2"><i class="fa fa-circle-o"></i> Empleados</a></li>
                  <li class="active"><a href="#"id="div-btn3"><i class="fa fa-circle-o"></i> Baja</a></li>
                   <li class="active"><a href="#"id="div-btn4"><i class="fa fa-circle-o"></i> Cambio </a></li>
                    <li class="active"><a href="#"id="div-btn5"><i class="fa fa-circle-o"></i>Consulta</a></li>
